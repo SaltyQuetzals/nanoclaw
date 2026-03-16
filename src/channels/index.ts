@@ -3,10 +3,7 @@
 
 // discord
 
-// gmail
-import './gmail.js';
-
-// slack
+//slack
 
 // telegram
 import './telegram.js';
